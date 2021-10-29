@@ -1,0 +1,36 @@
+@import 'utils';
+
+.main {
+    display: flex;
+    height: 100vh;
+    background-image: url(../../static/img/main_back.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes blink {
+    from,to {
+        border-color: transparent
+    }
+
+    50%{
+    border-color: white;
+    }
+}
+
+.type-text {
+    z-index: 2;
+    border-right: 0.1em solid #fff;
+    font-size: 4vw;
+    white-space: pre;
+    line-height: 1;
+    letter-spacing: .1rem;
+    padding-top: 0.2em;
+    -webkit-animation: blink 1s step-end infinite;
+    animation: blink 1s step-end infinite;
+}
