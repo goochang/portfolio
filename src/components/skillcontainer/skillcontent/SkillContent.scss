@@ -1,0 +1,39 @@
+@import 'utils';
+
+.skill_img {
+    text-align: center;
+    display: inline-block;
+    width: 114px;
+    height: 116px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 2rem;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 20%), 0 3px 6px rgb(0 0 0 / 20%);
+    border-radius: 15px;
+}
+
+#php {
+    width: 150px;
+}
+
+#qnet {
+    width: 140px;
+    background-position: left !important;
+}
+
+.skill_label{
+    background-color: black;
+    color:white;
+    opacity: 0.8;
+    vertical-align: middle;
+    width: 100%;
+    margin-top: 96px;
+    height: 20px;
+    line-height: 20px;
+}
+
+// .skill_img:hover .skill_label {
+//     visibility: visible;
+// }

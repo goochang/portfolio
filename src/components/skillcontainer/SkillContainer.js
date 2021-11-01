@@ -1,10 +1,10 @@
 import React from 'react';
-import styles from './Skill_container.scss';
+import styles from './SkillContainer.scss';
 import classNames from 'classnames/bind';
 
 const cx = classNames.bind(styles);
 
-const Skill_container = ({title, children}) => {
+const SkillContainer = ({title, children}) => {
 
     return (
         <div  className={cx('skill_container')}>
@@ -15,4 +15,4 @@ const Skill_container = ({title, children}) => {
 
 }
 
-export default Skill_container;
+export default SkillContainer;

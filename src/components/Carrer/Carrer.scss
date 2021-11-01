@@ -1,15 +1,62 @@
 @import 'utils';
 
-.contact {
+.carrer {
     width: 100%;
     height: 100%;
-    margin: 0;
-    justify-content: flex-start;
+    background-color: #416eb6;
+}
+.carrer_container {
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
 }
 
-.contact_title{
-    border-bottom: 1px solid black;
-    margin: 150px 150px;
+.carrer_title{
+    font-size: 30px;
+    text-align: center;
+}
+.carrer_title h1 {
+    font-weight: normal;
+}
+
+.carrer_content {
+    display: flex;
+    margin: 0 auto 30px;
+    height: 100%;
+    width: 100%;
+    max-width: 50vw;
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 20%), 0 3px 6px rgb(0 0 0 / 20%);
+}
+
+.carrer_info {
+    padding-left: 30px;
+}
+
+.carrer_img{
+    width: 50%;
+}
+
+.carrer_img img{
+    width: 100%;
+    height: 100%;
+}
+
+p.carrer_title {
+    font-weight: 800;
+    font-size: 30px;
+}
+p.carrer_where {
+    font-weight: 600;
+    font-size: 20px;
+}
+p.carrer_when {
+    font-size: 22px;
+}
+p.carrer_what {
+    font-size: 16px;
+}
+p.carrer_tag {
+    font-size: 15px;
+    font-weight: 700;
 }
