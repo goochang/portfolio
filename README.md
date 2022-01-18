@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# 최창규 포트폴리오  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 개발개요  
+>포트폴리오를 사이트에 간단하게 정리해보았습니다.  
 
-## Available Scripts
+# 자기소개 - 포기하지 않고 노력하는 사람  
+- 우연한 기회로 선린인터넷고등학교에 입학한 뒤로 꾸준히 개발 경험을 쌓고있습니다
+- 더욱 더 성숙한 개발자가 되도록 계속해서 노력하고 있습니다
+- 잘 부탁드립니다
 
-In the project directory, you can run:
+# 기술  
+- HTML, CSS, JS, React, Jquery  
+- Spring, PHP, NodeJS  
+- SVN, GIT  
 
-### `yarn start`
+# 커리어
+- 선린인고
+IT관련 특성화고 선린인터넷고등학교에서 C, C++, Java, Html,  
+Css,Php, MySQL, Python 등의 개발언어들의 기초를 배우며  
+수행한 프로젝트 포트폴리오 입니다  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 코드엠
+PHP기반 워드프레스를 활용하여 쇼핑몰을 시작하는 분들이  
+간편하게 쇼핑몰 시스템을 이용할 수 있도록 각종 플러그인을  
+개발하고 유지보수 및 호스팅해주는 회사에서  
+플러그인 개발 및 유지보수를 담당했습니다  
+#PHP #SVN #JQuery  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- 국비지원교육-프론트엔드 개발을 위한 자바 웹개발자 양성과정
+spring기반 웹개발과 React 기초를 쌓고 프로젝트 경험을  
+쌓았습니다. 프로젝트를 함에 있어서 비전공자 분들이 많아서  
+팀원 대부분이 저에게 의지하고 핵심 기능은 제가 전담하는  
+식으로 프로젝트를 진행하여 부담감이 심했습니다.  
+6개월간 다음 팀 인원들에게도 도움주는 모습을 보고  
+수료식날 유일하게 상을 주지 않았나 싶습니다  
+#SPRING #React #HTML #CSS #JS  
 
-### `yarn test`
+- 바이너리 - Spring기반 외주업체  
+군복무전 남은 기간에 알바형식으로 6개월가량 다닌 외주업체  
+입니다. 간단한 쇼핑몰이나 모바일 청첩장 등의 프로젝트를  
+페이지별로 분담하여 개발을 진행하였습니다  
+#Spring #JS #Jquery  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 개인프로젝트
+- 트위터 클론코딩  
+React 개발 능력 향상을 위해 개인적으로 트위터 클론 코딩을,  
+진행하였습니다. 기본적인 게시판을 만들어보고 이미지 Crop  
+및 Firebase에서 지원하는 이메일 인증 같은 간단한 기능도  
+추가해보았습니다  
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#트위터 #클론코딩 #REACT  
