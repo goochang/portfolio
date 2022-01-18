@@ -1,0 +1,15 @@
+@use '../../../styles/utils.scss';
+
+.skill_img {
+    text-align: center;
+    display: inline-block;
+    width: 114px;
+    height: 116px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 2rem;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 20%), 0 3px 6px rgb(0 0 0 / 20%);
+    border-radius: 15px;
+}

@@ -17,8 +17,10 @@ class Carrer extends Component {
             <div  className={cx('carrer')}>
                 <div className={cx('carrer_title')}>
                     <h1>Carrer</h1>
+                    <p>이미지 링크있습니다</p>
                 </div>
                 <div>
+
                 <div className={cx('carrer_container')}>
                     <CarrerContent title="선린인고" img={sunrin} tag={["#IT특성화고", "#선린인고", "#개발포트폴리오"]} when="2014~2016" 
                     where="선린인터넷고등학교"
@@ -39,7 +41,7 @@ class Carrer extends Component {
                     <CarrerContent title="바이너리" img={spring} tag={["#Spring", "#JS", "#Jquery"]} when="2018.12~2019.05" 
                     where="Spring기반 외주업체"
                     what={["군복무전 남은 기간에 알바형식으로 6개월가량 다닌 외주업체 ", <br />, "입니다. 간단한 쇼핑몰이나 모바일 청첩장 등의 프로젝트를 ", <br />, "페이지별로 분담하여 개발을 진행하였습니다"]}
-                    link="https://www.codemshop.com/"/>
+                    />
                     </div>
                 </div>
             </div>
